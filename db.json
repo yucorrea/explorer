@@ -1,0 +1,92 @@
+
+{
+    "games": [
+        {
+            "id": 1,
+            "title": "Age of Emperies IV",
+            "banner": "https://upload.wikimedia.org/wikipedia/pt/4/43/Capa_do_jogo_Age_of_Empires_IV.jpg",
+            "price": null,
+            "genre": null,
+            "discont": 0.0
+        },
+        {
+            "id": 2,
+            "title": "Forza Horizon 5",
+            "banner": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Capa_de_Forza_Horizon_5.jpg",
+            "price": null,
+            "genre": null,
+            "discont": 0.0
+        },
+        {
+            "id": 3,
+            "title": "Guardians of The Galaxy",
+            "banner": "https://upload.wikimedia.org/wikipedia/pt/e/e3/Guardians_of_the_Galaxy_jogo_capa.jpg",
+            "price": null,
+            "genre": null,
+            "discont": 0.0
+        },
+        {
+            "id": 4,
+            "title": "Jurassic World: Evolution 2",
+            "banner": "https://cdn-products.eneba.com/resized-products/ZYFUNdSbT814V2d3zkVMsf0Kk5thFT-KtRdvTkcvKV4_350x200_2x-0.jpeg",
+            "price": null,
+            "genre": null,
+            "discont": 0.0
+        },
+        {
+            "id": 5,
+            "title": "Elden Ring",
+            "banner": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/phvVT0qZfcRms5qDAk0SI3CM.png",
+            "price": null
+        },
+        {
+            "id": 6,
+            "title": "Final Fantasy V",
+            "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3filCfHYpqLLTWN12vuYjvN_suHusUpc1paGJYzyPQexzKJdWpY7FZkT1PQH8H_HoWlo&usqp=CAU",
+            "price": null,
+            "genre": null,
+            "discont": 0.0
+        },
+    
+        {
+            "id": 7,
+            "title": "Stardew Valley",
+            "banner": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8EbOC1gOG3eCQtIdkAPnuEQGQK6mNjChrtxMR7GG_rElkoXEE",
+            "price": 24.99,
+            "genre": null,
+            "discont": 10.0
+        },
+        {
+            "id": 8,
+            "title": "Spiritfarer",
+            "banner": "https://upload.wikimedia.org/wikipedia/pt/b/b3/Spiritfarer.jpg",
+            "price": 57.99,
+            "genre": null,
+            "discont": 0.0
+        },
+        {
+            "id": 9,
+            "title": "Skull: The Hero Slayer",
+            "banner": "https://www.ultimaficha.com.br/wp-content/uploads/2020/12/maxresdefault-4-780x470.jpg",
+            "price": 39.99,
+            "genre": null,
+            "discont": 0.0
+        },
+        {
+            "id": 10,
+            "title": "Slime rancher",
+            "banner": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher-Keyart_Wishlist-Landscape-2560x1440-b2f7b22e6d19dff415daf5dbe4d8e78c.jpg",
+            "price": 29.87,
+            "genre": null,
+            "discont": 0.0
+        },
+        {
+            "id": 11,
+            "title": "Sleeping Dogs",
+            "banner": "https://images.gog-statics.com/809c14faae9bdd30d35f5a8e75b8abc7227b33aebdd06517f56fe400cb5a24e7_product_card_v2_mobile_slider_639.jpg",
+            "price": 17.90,
+            "genre": null,
+            "discont": 0.0
+        }
+    ]
+}
