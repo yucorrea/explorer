@@ -23,7 +23,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 ## :art: Layout
- Você pode ver a publicação do layout no [#DailyUI 22](https://www.linkedin.com/posts/anaju-pereira_dailyui-dailyui-design-activity-6867247638971084800-j5ZK)
+ Você pode ver a publicação do layout no [#DailyUI 22](https://www.linkedin.com/posts/anaju-pereira_dailyui-dailyui-design-activity-6867247638971084800-j5ZK) <br/>
  Feito por: Ana Júlia Pereira :wave: [Entrar em contato!](https://www.linkedin.com/in/anaju-pereira/)
 
  <div style="display: flex; margin-bottom: 32px">
